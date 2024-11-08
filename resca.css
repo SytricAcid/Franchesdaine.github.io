@@ -18,3 +18,9 @@ p.two  {
   text-align: center;
 }
 
+p.three  {
+  color: light blue;
+  font-family: Times New Roman;
+  font-size: 12;
+  text-align: center;
+}
