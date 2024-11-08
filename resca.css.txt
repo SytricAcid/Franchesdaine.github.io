@@ -1,0 +1,19 @@
+h1 {
+  color: yellow;
+  font-family: Times New Roman;
+}
+
+p.one  {
+  color: red;
+  font-family: Times New Roman;
+  font-size: 12;
+  text-align: center;
+}
+
+p.two  {
+  color: green;
+  font-family: Times New Roman;
+  font-size: 12;
+  text-align: center;
+}
+

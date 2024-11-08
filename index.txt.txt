@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head><title> ICT Hands-on </title></head> 
+<body background="Death.jpg"> 
+
+<head> 
+<link rel="stylesheet" href="resca.css">
+</head>
+
+<h1> "The Midnight Deadline" </h1>
+<p class="one"> <b> 
+Mia and Lila, best friends and chronic procrastinators, ignored their project deadlines until the final night. <br>
+Meeting at Mia’s house, they surrounded themselves with snacks and crumpled notes, determined to finish everything in one night. <br>
+As the clock ticked closer to midnight, their fingers flew across the keyboard, fueled by caffeine and panic. <br>
+
+</p>
+<p class="two"> 
+By 12:00 AM, the girls were completely drained, stress and exhaustion taking over. <br>
+Just as the clock struck, they both froze, falling silent at their desks. <br>
+The next morning, their bodies were found, faces illuminated by their still-glowing screens. <br>
+It’s said that ever since, ghostly typing sounds echo from Mia’s room at midnight, haunting procrastinators everywhere.
+</p>
+
+
+<p class="three" align="right"> Reezadaine G. Rojales <br> Franchesca Jay N. Corrales </p>
+
+</body>
+</html>
